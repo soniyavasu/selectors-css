@@ -1,0 +1,42 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:borde-box;
+}
+h1{
+	text-align:center;
+}
+p{
+	font-size:30px;
+	background:aqua;
+}
+.soniya{
+	padding:15px;
+	font-size:15px;
+	background:gray;
+	text-align:left;
+}
+h2{
+	text-align:;
+}
+h1, h2{
+	color:black;
+}
+.bb{
+	text-align:right;
+}
+.cc{
+	text-align:center;
+}
+#water{
+	padding:15px;
+	font-size:15px;
+	text-align:left;
+	background-color:gray;
+}
+#water h2{
+	background-color:orange;
+}
+#soil h2{
+	background-color:#DFFF00
+}
